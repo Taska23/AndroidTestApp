@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application Java</string>
+    <string name="botButtonIcon">Just a button</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Эбаут ас(с)</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_text_1">Taska`s</string>
+    <string name="logo_text_2">Test</string>
+    <string name="logo_text_3">App</string>
+    <string name="settings_upper_button_image">settings_upper_button_image</string>
+    <string name="category_button">category_button</string>
+</resources>
